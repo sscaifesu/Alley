@@ -1,0 +1,2 @@
+# > fubotv
+DOMAIN-SUFFIX,fubo.tv
